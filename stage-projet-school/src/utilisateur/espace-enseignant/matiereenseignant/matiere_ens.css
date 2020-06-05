@@ -1,0 +1,75 @@
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  .buttonajout {
+    background-color: teal;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 700px;
+   
+    border-radius: 8px;
+  }
+
+.t1{
+margin-top: 50px;
+
+ }
+ .t2{
+margin-top: auto;
+
+ }
+ 
+ .titrecours{
+ font-size: larger;
+ font-family:  Georgia, Times, 'Times New Roman', serif;
+ font-style: italic;
+
+  }
+  .titreexercice{
+    font-size: larger;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+  }
+  .table1{
+ border: 1 ;
+ border-left: lavender;
+/* width: 700px;*/
+ border-collapse: collapse;
+ width: 90%;
+
+  }
+  .table2{
+    border: 1 ;
+    border-left: lavender;
+    /*width: 700px;*/
+    border-collapse: collapse;
+    width: 90%;
+    
+  }
+  .head1{
+background-color: #FFAB91;
+  }
+  .head2{
+    background-color: #CE93D8;
+
+  }
+  .body1{
+    background-color: #FF9E80;
+
+  }
+  .body2{
+    background-color:  #E1BEE7;
+
+  }

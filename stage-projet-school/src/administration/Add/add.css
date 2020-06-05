@@ -1,0 +1,47 @@
+.addbody{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 18px;
+    background-color:rgb(205, 211, 211); 
+  }
+  .addfiliere{
+     width:500px ;
+      margin-top: 50px;
+  }
+ .myformajout {
+  margin: auto;
+  border: none;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 18px;
+
+  background-color: rgb(205, 211, 211); 
+  }
+  .container {
+    padding: 16px;
+  }
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  .myButton {
+   background-color: #4CAF50;
+    width: 40%;
+   /* background-color:#ff6600;*/
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:7px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Arial;
+    font-size:20px;
+    padding:7px 20px;
+    text-decoration:none;  
+    color:white;
+  }
+ 
+

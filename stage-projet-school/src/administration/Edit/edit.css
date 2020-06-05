@@ -1,0 +1,49 @@
+.editbody{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 18px;
+    background-color:#FAF0E6; 
+  
+  }
+  
+  .editfiliere{
+    width:500px ;
+     margin-top: 50px;
+ }
+ .myformmodif {
+  margin: auto;
+  border: none;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 18px;
+  background-color:#FAF0E6; 
+
+  }
+  .container {
+    padding: 16px;
+  }
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  .myButtonedit {
+   
+    width: 40%;
+   background-color:#f7adf7;
+
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:7px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Arial;
+    font-size:20px;
+    padding:7px 20px;
+    text-decoration:none;  
+    color:white;
+  }
+ 
