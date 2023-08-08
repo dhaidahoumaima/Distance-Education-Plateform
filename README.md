@@ -6,8 +6,8 @@ learning experiences.
 
 ## Description
 
-The Distance Education Platform was developed during my university internship, where I had the opportunity to work on a real-world
-project under the guidance of mentors and industry professionals. The platform is built using React.js for the frontend, Node.js
+The Distance Education Platform was developed during one of my internships, where I had the opportunity to work on a real-world
+project under the guidance of mentors and industry professionals. The platform is built using React.js for the front end, Node.js
 and Express.js for the backend, and MongoDB as the database. It enables user authentication, course management, enrollment system,
 interactive learning with quizzes and assignments, and progress tracking for students.
 
